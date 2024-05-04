@@ -27,4 +27,4 @@ My research interests include High Performance Computing, Computer Vision, and L
 
 At SenseTime and the Shanghai AI Laboratory, we are actively hiring PhDs, postdocs, interns, and full-time researchers. If you're interested in joining our team, please feel free to reach out to me via email.
 
-You can check out my CV [here](assets/pdf/Conghui_CV_2403.pdf).
+You can check out my CV [here](assets/pdf/Conghui_CV_2024.pdf).
